@@ -1,0 +1,40 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.top{
+    width: 100% !important;
+    background-color: #0065c3 !important;
+}
+.header-pic{
+    background-image: url(images/logo.44fea4ca40e8a8843bb0fdf07d618439.png) !important ;
+}
+.button-header{
+    color: beige;
+    border-color: aliceblue;
+    border-radius: 25px;
+    width: 200px;
+}
+.button-header:hover{
+    color: black;
+    border-color: aliceblue;
+    background-color: white;
+    border-radius: 25px;
+    width: 200px;
+}
+.section{
+    display: flex;
+}
+.section-image{
+    height: 100vh;
+    width: 100%;
+}
+.main{
+    background-image:url(images/Desktop_Background.png) ;
+    width: 100%;
+    height: 80vh;
+}
+.section2-image{
+    height: 80vh;
+    margin-left:100px ;
+}
